@@ -1,2 +1,6 @@
-this is a test
-niceact text file
+Date: 11/12/2021
+User: niceact
+Purpose: This is a git practice branch and Pull request.
+Message:
+This is the beginning of something awesome!
+Go for Gold!
